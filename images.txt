@@ -7,5 +7,6 @@ bitnami/kafka:latest
 provectuslabs/kafka-ui:latest
 prom/prometheus:latest
 grafana/grafana:latest
+
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
